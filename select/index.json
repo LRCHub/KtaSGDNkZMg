@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "bloom love",
+  "base_artist": "Cosmoslay",
+  "createdAt": "2026-04-01T10:53:24.230620Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bloom love",
+      "artist": "Cosmoslay",
+      "has_synced": false,
+      "path": "select/pl_01_bloom_love_Cosmoslay.txt"
+    }
+  ]
+}
